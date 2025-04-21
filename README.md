@@ -62,7 +62,7 @@ It contains the following key columns:
 - 📈 Monthly trend of complaints
 
 ### Example 1: Monthly Complaint Trend  
-![Monthly Trend](sample_images/monthly_trend.png)
+[🔍 View Monthly Trend Chart](sample_images/monthly_trend.png)
 
 ### Example 2: State-wise Complaints (Closed vs Open)  
-![State-wise Complaints](sample_images/statewise_stacked_bar.png)
+[🔍 View State-wise Complaints Chart](sample_images/statewise_stacked_bar.png)
