@@ -12,7 +12,7 @@ This project analyzes customer complaints received by Comcast Corporation, aimin
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Python Libraries Used
 
 - **Python**  
 - **Pandas** – Data manipulation  
