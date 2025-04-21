@@ -61,10 +61,8 @@ It contains the following key columns:
 - 📊 Stacked bar: State-wise Closed vs Open  
 - 📈 Monthly trend of complaints
 
-### Example 1: Monthly Complaint Trend
+### Example 1: Monthly Complaint Trend  
+![Monthly Trend](sample_images/monthly_trend.png)
 
-![Monthly Trend](sample_images /monthly_trend.png)
-
-### Example 2: State-wise Complaints (Closed vs Open)
-
-![State-wise Complaints](sample_images /statewise_stacked_bar.png)
+### Example 2: State-wise Complaints (Closed vs Open)  
+![State-wise Complaints](sample_images/statewise_stacked_bar.png)
