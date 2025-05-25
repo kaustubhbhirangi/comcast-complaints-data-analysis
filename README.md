@@ -14,7 +14,6 @@ This project analyzes customer complaints received by Comcast Corporation, aimin
 
 ## 🛠️ Python Libraries Used
 
-- **Python**  
 - **Pandas** – Data manipulation  
 - **NumPy** – Numerical operations  
 - **Matplotlib** – Data visualization   
