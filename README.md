@@ -17,8 +17,7 @@ This project analyzes customer complaints received by Comcast Corporation, aimin
 - **Python**  
 - **Pandas** – Data manipulation  
 - **NumPy** – Numerical operations  
-- **Matplotlib** – Data visualization  
-- **Seaborn** – Enhanced visualizations  
+- **Matplotlib** – Data visualization   
 
 ---
 
